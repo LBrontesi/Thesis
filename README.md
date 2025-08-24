@@ -1,6 +1,6 @@
 # Credit Risk Modeling with Partial Information and Default Contagion
 
-This repository contains the code and materials supporting a thesis on advanced credit risk modeling. The work focuses on pricing defaultable securities—such as corporate bonds and credit default swaps—under varying informational environments.
+This repository contains the code and materials supporting a thesis on advanced credit risk modeling. The work focuses on pricing defaultable securities under varying informational environments.
 
 The thesis develops a framework that accounts for:  
 - **Partial vs. complete information**, capturing the effect of unobserved economic states on pricing.  
